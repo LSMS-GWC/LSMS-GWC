@@ -1,0 +1,91 @@
+/*HTML - GWC Home Page*/
+
+header {
+    padding: 30px;
+    background-color: purple;
+    text-align: center;
+    color: white;
+}
+
+body {
+    margin: 0;
+    background-color: white;
+    font-family: cursive;
+}
+
+h1, h2 p {
+    color: white;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400;
+    width: 400;
+}
+
+h3 p {
+    margin-left: 20px;
+    font-family: cursive;
+    text-align: left;
+    color: purple;
+}
+
+#sub {
+    font-size: 20px;
+}
+
+.row {
+    width: 25%;
+    float: left;
+}
+
+.row p{
+    text-align: center;
+    color: purple;
+}
+
+.row p:hover {
+    font-weight: bold;
+}
+
+div img {
+    height: 200;
+    width: 300;
+    border-radius: 10px;
+}
+
+div img:hover {
+    box-shadow: -3px 3px 20px #222;
+}
+
+/*HTML - Other Pages*/
+
+.link {
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+}
+
+.link a {
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    box-shadow: -3px 3px 20px #222;
+}
+
+iframe {
+    display: block;
+    margin-top: 50px;
+    margin-left: 20px;
+}
