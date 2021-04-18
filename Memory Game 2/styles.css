@@ -31,6 +31,12 @@ h2 {
   margin-bottom: 25px;
   margin-top: -15px;
 }
+h3 p {
+    margin-left: 20px;
+    font-family: cursive;
+    text-align: left;
+    color: purple;
+}
 #board{
   background-color: transparent;
   width: 720px;
