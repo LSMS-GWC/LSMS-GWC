@@ -18,16 +18,16 @@ var count;
 function preload(){
   backImage=loadImage("background.jpg");
   
-  player_running = loadAnimation("p1.png","p2.png","p3.png","p4.png","p5.png","p6.png","p7.png","p8.png");
+  player_running = loadAnimation("images/polarImage/p1.png","images/polarImage/p2.png","images/polarImage/p3.png","images/polarImage/p4.png","images/polarImage/p5.png","images/polarImage/p6.png","images/polarImage/p7.png","images/polarImage/p8.png");
   
-  player_stopping=loadImage("p1.png");
+  player_stopping=loadImage("images/polarImage/p1.png");
   
-  foxImage = loadImage("fox.png");
-  iceCubeImage = loadImage("iceCube.png");
-  penguinImage = loadImage("penguin.png");
-  puddleImage = loadImage("puddle.png");
-  sealImage = loadImage("seal.png");
-  gameoverimage = loadImage ("gameover.png");
+  foxImage = loadImage("images/fox.png");
+  iceCubeImage = loadImage("images/iceCube.png");
+  penguinImage = loadImage("images/penguin.png");
+  puddleImage = loadImage("images/puddle.png");
+  sealImage = loadImage("images/seal.png");
+  gameoverimage = loadImage ("images/gameover.png");
   
 }
 
