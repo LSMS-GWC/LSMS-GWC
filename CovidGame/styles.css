@@ -63,6 +63,8 @@ button {
 	font-size: 15px;
 	width: 70px;
 	border-radius: 12px;
+	margin-left: auto;
+	margin-right: auto;
 }
 button:hover {
 	background-color: white;
