@@ -73,10 +73,11 @@ button:hover {
 
 body {
 	text-align: left;
+	color: purple;
 }
 
-p {
-	color: purple;
+#sub {
+	color: white;
 	font-size: 24px;
 }
 
