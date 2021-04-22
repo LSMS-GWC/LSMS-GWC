@@ -72,11 +72,11 @@ button:hover {
 }
 
 body {
-	text-align: center;
+	text-align: left;
 }
 
 p {
-	color: red;
+	color: purple;
 	font-size: 24px;
 }
 
