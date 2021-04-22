@@ -9,7 +9,7 @@ var gameCanvas = {
 		this.canvas.width = 700;
 		this.context = this.canvas.getContext("2d");
 		document.body.insertBefore(this.canvas, 
-			document.body.childNodes[0]);
+			document.body.childNodes[1]);
 		this.interval = setInterval(nextFrame, 4);
 		window.addEventListener('keydown', function(e) {
 			gameCanvas.key = e.keyCode;
