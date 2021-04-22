@@ -10,6 +10,11 @@ body {
     background-color: white;
     font-family: cursive;
 }
+
+p {
+    color: purple;
+}
+
 .link {
     margin-top: 30px;
     margin-left: 20px;
