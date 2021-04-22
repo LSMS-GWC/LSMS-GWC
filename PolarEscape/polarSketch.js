@@ -16,7 +16,7 @@ var count;
 
 
 function preload(){
-  backImage=loadImage("background.jpg");
+  backImage=loadImage("images/background.jpg");
   
   player_running = loadAnimation("images/polarImage/p1.png","images/polarImage/p2.png","images/polarImage/p3.png","images/polarImage/p4.png","images/polarImage/p5.png","images/polarImage/p6.png","images/polarImage/p7.png","images/polarImage/p8.png");
   
