@@ -31,7 +31,7 @@ p {
     margin-top: 15px;
 }
 
-.link b {
+#startButton {
     margin-top: 30px;
     margin-left: 20px;
     width: 100px;
