@@ -37,7 +37,7 @@ p {
 
 .instructions {
     margin-right: 200px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 iframe {
@@ -52,4 +52,5 @@ html, body {
 }
 canvas {
   display: block;
+  margin: auto;
 }
