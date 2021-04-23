@@ -35,6 +35,11 @@ p {
     box-shadow: -3px 3px 20px #222;
 }
 
+.instructions {
+    margin-right: 200px;
+    margin-left: 100px;
+}
+
 iframe {
     display: block;
     margin-top: 50px;
