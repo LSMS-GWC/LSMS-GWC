@@ -38,6 +38,8 @@ iframe {
 
 canvas {
 	border: 1px solid black;
+	margin-top: 25px;
+	margin-left: auto;
 }
 
 button, div {
