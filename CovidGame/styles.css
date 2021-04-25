@@ -39,7 +39,7 @@ iframe {
 canvas {
 	border: 1px solid black;
 	margin-top: 25px;
-	margin-left: auto;
+	margin-left: 25%;
 }
 
 button, div {
@@ -91,6 +91,7 @@ body {
 }
 #restartBtn {
 	visibility: hidden;
+	margin-left: 45%
 }
 
 /*#upBtn, #downBtn {
