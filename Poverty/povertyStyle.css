@@ -16,6 +16,10 @@ h1 {
 }
 
 p {
+    color: purple;
+}
+
+.headerp {
     color: white;
 }
 
