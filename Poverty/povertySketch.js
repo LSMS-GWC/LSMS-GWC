@@ -105,14 +105,14 @@ function draw() {
     drawSprites();
   } else if (gameState == 0){
     textSize(50);
-    text("TIMES UP!", 300, 250);
+    text("TIMES UP!", 400, 250);
     textSize(18);
     if (statusUpdater() == 0){
-      text("You gave money to "+statusUpdater()+" people. Please try to give more money next time.", 300, 350);
+      text("You gave money to "+statusUpdater()+" people. Please try to give more money next time.", 400, 350);
     } else if (statusUpdater() == 1){
-      text("You gave money to "+statusUpdater()+" person. Good Job!", 350, 350);  
+      text("You gave money to "+statusUpdater()+" person. Good Job!", 450, 350);  
     } else{
-    text("You gave money to "+statusUpdater()+" people. Good Job!", 350, 350);
+    text("You gave money to "+statusUpdater()+" people. Good Job!", 450, 350);
     }
   }
 }
