@@ -11,6 +11,10 @@ body {
     font-family: cursive;
 }
 
+h1 {
+    color: purple;
+}
+
 p {
     color: white;
 }
