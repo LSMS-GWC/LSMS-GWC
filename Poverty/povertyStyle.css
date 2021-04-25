@@ -25,6 +25,16 @@ p {
     color: white;
 }
 
+.link2 {
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+}
+
 .link a {
     text-decoration: none;
     margin-left: 15px;
