@@ -9,6 +9,10 @@ h1 {
     color: white;
 }
 
+h2 {
+    color: purple;
+}
+
 h4 {
     color: purple;
 }
@@ -24,8 +28,7 @@ p {
 body {
     background-color: white;
     font-family: cursive;
-    margin-top: 30px;
-    margin-left: 20px;
+    margin: 0;
 }
 .link {
     margin-top: 30px;
