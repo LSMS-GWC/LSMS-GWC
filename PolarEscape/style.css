@@ -5,6 +5,22 @@ header {
     color: white;
 }
 
+h1 {
+    color: white;
+}
+
+h4 {
+    color: purple;
+}
+
+p {
+    color: purple;
+}
+
+.headerp {
+    color: white;
+}
+
 body {
     margin: 0;
     background-color: white;
