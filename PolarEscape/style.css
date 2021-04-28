@@ -74,6 +74,11 @@ html, body {
     color: white;
 }
 
+.instructions {
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
 canvas {
   display: block;
 }
