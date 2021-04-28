@@ -60,6 +60,20 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+.link2 {
+    margin-top: 30px;
+    margin-left: 20px;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+}
+
 canvas {
   display: block;
 }
